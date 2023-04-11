@@ -70,10 +70,6 @@ I'm expressing my thanks to the persons since I couldn't have done this project 
 *  Fahad Hossain
    
    Student of CSE, IUB.
-   
-*  Mahir Labib
-   
-   Student of CSE, SUST.
  
 *  CodeWithHarry
 
